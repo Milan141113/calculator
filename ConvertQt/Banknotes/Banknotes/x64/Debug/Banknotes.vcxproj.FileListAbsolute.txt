@@ -1,0 +1,8 @@
+C:\Users\milan\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.AssemblyReference.cache
+C:\Users\milan\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\milan\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.MyForm.resources
+C:\Users\milan\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.GenerateResource.cache
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.AssemblyReference.cache
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.MyForm.resources
+C:\Users\The_Same_Gleb\source\repos\Banknotes\Banknotes\x64\Debug\Banknotes.vcxproj.GenerateResource.cache
